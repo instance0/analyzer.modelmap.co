@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Modelmap Analyzer
 description: Visualize Excel's Cell Dependencies Effortlessly! Analyze Excel Spreadsheets with Ease using Modelmap Analyzer.
 ---
