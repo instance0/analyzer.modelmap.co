@@ -4,4 +4,8 @@ title: Modelmap Analyzer
 ---
 ## Pricing
 
-Price: $100 per month
+100 USD per month.
+
+You can purchase a license from [our storefront](https://ins0modelmap.onfastspring.com/analyzer).
+
+
