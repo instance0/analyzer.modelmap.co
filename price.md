@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Modelmap Analyzer
+title: Pricing - Modelmap Analyzer
 ---
 ## Pricing
 
