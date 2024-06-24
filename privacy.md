@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Modelmap Analyzer
+title: Privacy Policy - Modelmap Analyzer
 ---
 Privacy Policy
 ==============
