@@ -133,6 +133,29 @@ title: Modelmap Analyzer
 <p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
 <p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the &quot;Last updated&quot; date at the top of this Privacy Policy.</p>
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+
+## Google API Limited Use Disclosure
+
+Our use of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
+
+### Limited Use Requirements
+
+1. **Usage of Google API Data**: Our application will only use access to Google API data to provide or improve user-facing features that are prominent in the requesting application's user interface. All other uses of the data are strictly prohibited.
+
+2. **No Sharing**: Our application will not transfer, share, or sell Google API data to third parties under any circumstances, except as necessary to provide or improve user-facing features that are prominent in the requesting application's user interface. In such cases, only the minimum necessary data will be transferred.
+
+3. **No Ad Personalization**: Our application will not use Google API data for serving ads, including retargeting, personalized or interest-based advertising.
+
+4. **No Use for Unauthorized Purposes**: Our application will not use Google API data for purposes that have not been disclosed to Google and users, and it will not be used for any other purposes outside the terms agreed with Google.
+
+5. **Data Deletion**: Our application will ensure that data obtained through Google API is deleted when it is no longer necessary for the stated purpose, or if requested by the user. We will follow Google’s requirements for secure deletion.
+
+6. **Transparency to Users**: Our application will provide clear and accurate information to users regarding how their data will be used, ensuring that users are fully informed and give consent to data usage practices.
+
+### Commitment to User Privacy
+
+We are committed to ensuring the privacy and security of user data obtained through Google APIs. We will take all necessary measures to protect user data and comply with applicable data protection laws and regulations.
+
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
