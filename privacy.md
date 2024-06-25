@@ -167,11 +167,12 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## Google API Limited Use Disclosure
+Google API Limited Use Disclosure
+---------------------------------
 
-Our use of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
+Our use of information received from Google APIs will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
-### Limited Use Requirements
+## Limited Use Requirements
 
 1. **Usage of Google API Data**: Our application will only use access to Google API data to provide or improve user-facing features that are prominent in the requesting application's user interface. All other uses of the data are strictly prohibited.
 
@@ -185,7 +186,7 @@ Our use of information received from Google APIs will adhere to the Google API S
 
 6. **Transparency to Users**: Our application will provide clear and accurate information to users regarding how their data will be used, ensuring that users are fully informed and give consent to data usage practices.
 
-### Commitment to User Privacy
+## Commitment to User Privacy
 
 We are committed to ensuring the privacy and security of user data obtained through Google APIs. We will take all necessary measures to protect user data and comply with applicable data protection laws and regulations.
 
