@@ -172,13 +172,13 @@ Google API Limited Use Disclosure
 
 Our use of information received from Google APIs will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
-## Limited Use Requirements
+### Limited Use Requirements
 
-1. **Usage of Google API Data**: Our application will only use access to Google API data to provide or improve user-facing features that are prominent in the requesting application's user interface. All other uses of the data are strictly prohibited.
+1. **Usage of Google API Data**: Our application will only use access to Google API data to provide or improve user-facing features that are prominent in the requesting application's user interface. Specifically, our application uses Google user data solely for screen rendering purposes and does not store any Google user data in our databases or any other storage systems.
 
 2. **No Sharing**: Our application will not transfer, share, or sell Google API data to third parties under any circumstances, except as necessary to provide or improve user-facing features that are prominent in the requesting application's user interface. In such cases, only the minimum necessary data will be transferred.
 
-3. **No Ad Personalization**: Our application will not use Google API data for serving ads, including retargeting, personalized or interest-based advertising.
+3. **No Ad Personalization**: Our application will not use Google API data for serving ads, including retargeting, personalized, or interest-based advertising.
 
 4. **No Use for Unauthorized Purposes**: Our application will not use Google API data for purposes that have not been disclosed to Google and users, and it will not be used for any other purposes outside the terms agreed with Google.
 
