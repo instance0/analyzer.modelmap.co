@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Terms and Conditions - Modelmap Analyzer
 ---
 

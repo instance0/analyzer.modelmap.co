@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Support - Modelmap Analyzer
 ---
 ## Suppport

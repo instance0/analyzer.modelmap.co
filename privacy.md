@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Privacy Policy - Modelmap Analyzer
 ---
 Privacy Policy

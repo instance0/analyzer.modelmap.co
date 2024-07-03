@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Return and Refund Policy - Modelmap Analyzer
 ---
 Return and Refund Policy
